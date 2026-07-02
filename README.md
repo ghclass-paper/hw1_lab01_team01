@@ -1,3 +1,6 @@
+[![Check Assignment](https://github.com/ghclass-paper/hw1_lab01_team01/workflows/Check%20Assignment/badge.svg)](https://github.com/ghclass-paper/hw1_lab01_team01/actions?query=workflow:%22Check%20Assignment%22)
+
+
 Homework 1
 ----------
 
